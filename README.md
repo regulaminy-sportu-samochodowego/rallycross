@@ -69,7 +69,7 @@ Jak stworzyć PR:
 
 ### 4. Proces Akceptacji
 - 👥 **Recenzja** - minimum 2 osoby zatwierdzają zmianę
-- ⚖️ **Głosowanie** - w przypadku kontrowersji (patrz: `/docs/voting-rules.md`)
+- ⚖️ **Głosowanie** - w przypadku kontrowersji (patrz: `/docs/zasady-glosowania.md`)
 - 📅 **Harmonogram** - PR są rozpatrywane w ciągu 7 dni
 
 ---
@@ -82,8 +82,8 @@ Jak stworzyć PR:
 │ ├── tor.md # Zasady rywalizacji na torze
 │ └── /klasy/ # Regulaminy techniczne klas
 ├── /templates/ # Szablony dokumentów
-└── /docs/ # Dodatkowe zasoby
-└── voting-rules.md # Zasady głosowań
+├── /docs/ # Dodatkowe zasoby
+│ └── docs/zasady-glosowania.md # Zasady głosowań
 ```
 
 ---
