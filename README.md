@@ -89,11 +89,10 @@ Jak stworzyć PR:
 
 ## Masz Pytania? 🙋‍♂️
 - Sprawdź [FAQ](/docs/faq.md)
-- Zadaj pytanie w [Discussions](https://github.com/yourusername/rallycross-regulations/discussions)
-- Napisz do maintainerów: [@maintainer1](https://github.com/maintainer1), [@maintainer2](https://github.com/maintainer2)
+- Zadaj pytanie w [Discussions](https://github.com/regulaminy-sportu-samochodowego/rallycross/discussions)
 
 ---
 
 **Pamiętaj:** Twój głos ma znaczenie! Razem tworzymy przyszłość Rallycross. 🏆
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/rallycross-regulations?style=social)](https://github.com/yourusername/rallycross-regulations)
+[![GitHub stars](https://img.shields.io/github/stars/regulaminy-sportu-samochodowego/rallycross?style=social)](https://github.com/regulaminy-sportu-samochodowego/rallycross)
