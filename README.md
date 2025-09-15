@@ -65,6 +65,7 @@ Jak stworzyć PR:
 
 ## Struktura Projektu 📁
 
+```
 ├── /regulaminy/ # Gotowe regulaminy
 │ ├── organizacja.md # Zasady przeprowadzania zawodów
 │ ├── tor.md # Zasady rywalizacji na torze
@@ -73,6 +74,7 @@ Jak stworzyć PR:
 ├── /templates/ # Szablony dokumentów
 └── /docs/ # Dodatkowe zasoby
 └── voting-rules.md # Zasady głosowań
+```
 
 ---
 
