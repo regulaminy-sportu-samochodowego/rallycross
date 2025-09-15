@@ -81,7 +81,6 @@ Jak stworzyć PR:
 │ ├── organizacja.md # Zasady przeprowadzania zawodów
 │ ├── tor.md # Zasady rywalizacji na torze
 │ └── /klasy/ # Regulaminy techniczne klas
-├── /propozycje/ # Rozwiązania w dyskusji
 ├── /templates/ # Szablony dokumentów
 └── /docs/ # Dodatkowe zasoby
 └── voting-rules.md # Zasady głosowań
