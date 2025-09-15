@@ -25,6 +25,17 @@ Tworzymy otwarty system regulaminów, który:
 
 ---
 
+## Na skróty
+
+- 🏁 [Zasady przeprowadzania zawodów](regulaminy/organizacja.md)
+- 🤜🏻 [Zasady rywalizacji na torze](regulaminy/tor.md)
+
+### Regulaminy techniczne
+
+- 🏎️ [Regulamin RWD Cup](regulaminy/klasy/rwd-cup.md)
+
+---
+
 ## Jak Współtworzyć? 🤝
 Chcemy, by każdy mógł łatwo wnosić swoje pomysły! Oto proste kroki:
 
