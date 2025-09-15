@@ -13,7 +13,9 @@ Schemat
 
 Dowolna treść
 
-*Pogrubienie*
+**Pogrubienie**
+
+> Cytat
 
 Lista:
 
