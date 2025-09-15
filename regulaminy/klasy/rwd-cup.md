@@ -29,13 +29,13 @@ uważa się, że ta część jest zainstalowana poza granicami kabiny.
 Oryginalna część BMW – część, która była używana w seryjnej produkcji samochodów BMW E30, E36, E46, E81, E82, E87, E90, E92, F20, F21, F22, F30 lub innych producentów, część identycznej formy i zasady działania.
 Ta część nie może być w żaden sposób modyfikowana, z wyjątkiem przypadków, gdy pozwalają na to określone punkty tego regulaminu. Do mocowania takich części nie mogą być używane adaptery.
 
-*PRZYKŁAD: w samochodzie zamiast oryginalnego wahacza BMW mogą być używane wahacze producentów SWAG, FEBI, TRW, LEMFORDER. Jednak zamiast oryginalnej blokady dyferencjału BMW zabrania się używać blokad CUSCO, QUAIFE, KAAZ.*
+> PRZYKŁAD: w samochodzie zamiast oryginalnego wahacza BMW mogą być używane wahacze producentów SWAG, FEBI, TRW, LEMFORDER. Jednak zamiast oryginalnej blokady dyferencjału BMW zabrania się używać blokad CUSCO, QUAIFE, KAAZ.
 
 ### 2.5.
 
 Część seryjna – część wyprodukowana seryjnie w fabryce.
 
-*PRZYKŁAD: w samochodzie zamiast oryginalnego wahacza zawieszenia mogą być używane oryginalne wahacze TOYOTA, VW, RENAULT lub innych producentów. Mogą być również używane wahacze producentów części sportowych (SWAGIER, PMC, IRP itp.).*
+> PRZYKŁAD: w samochodzie zamiast oryginalnego wahacza zawieszenia mogą być używane oryginalne wahacze TOYOTA, VW, RENAULT lub innych producentów. Mogą być również używane wahacze producentów części sportowych (SWAGIER, PMC, IRP itp.).
 
 ### 2.6.
 
